@@ -1,0 +1,11 @@
+idx,Car_Model
+1,Toyota Camry
+2,Honda Civic
+3,Ford Mustang
+4,Tesla Model 3
+5,Chevrolet Corvette
+6,BMW M3
+7,Audi A4
+8,Mercedes-Benz C-Class
+9,Hyundai Elantra
+10,Nissan Altima

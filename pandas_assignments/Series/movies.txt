@@ -1,0 +1,33 @@
+Movie_Title,Lead_Actor
+Avengers: Doomsday,Robert Downey Jr.
+Oppenheimer,Robert Downey Jr.
+Sherlock Holmes 3,Robert Downey Jr.
+Mission: Impossible - Dead Reckoning,Tom Cruise
+Top Gun: Maverick,Tom Cruise
+Edge of Tomorrow,Tom Cruise
+Barbie,Margot Robbie
+A Big Bold Beautiful Journey,Margot Robbie
+Suicide Squad,Margot Robbie
+Dune: Part Two,Zendaya
+Challengers,Zendaya
+Spider-Man: No Way Home,Isabela Merced
+The Fall Guy,Ryan Gosling
+La La Land,Ryan Gosling
+Project Hail Mary,Ryan Gosling
+Gladiator II,Paul Mescal
+Aftersun,Paul Mescal
+Black Widow,Scarlett Johansson
+Asteroid City,Scarlett Johansson
+Lucy,Scarlett Johansson
+Superman,David Corenswet
+Mission: Impossible - The Final Reckoning,Isabela Merced
+The Fantastic Four: First Steps,Isabela Merced
+Mardaani 3,Rani Mukerji
+The Bluff,Priyanka Chopra Jonas
+War Machine,Alan Ritchson
+Crime 101,Chris Hemsworth
+Ballerina,Ana de Armas
+The Rip,Matt Damon
+28 Years Later,Ralph Fiennes
+Dead Souls,Rani Mukerji
+Alien: Romulus,Isabela Merced
